@@ -4,7 +4,7 @@ Azure Data Pipeline for Data Extraction, Transformation, and Analysis
 
 ## Introduction
 
-Welcome to our project! This project demonstrates how to build a data pipeline using Azure Data Factory, Azure Data Lake Storage, Azure Databricks, and Azure Synapse Analytics. The goal is to extract data from an API, transform it, and gain insights through SQL queries and visualizations.
+Welcome to our project! This project demonstrates how to build a data pipeline using Azure Data Factory, Azure Data Lake Storage, Azure Databricks, and Azure Synapse Analytics. The goal is to extract/load data from an API/Kaggle, transform it, and gain insights through SQL queries and visualizations.
 
 ## Architecture
 ![Project Architecture](https://github.com/tejasjbansal/Azure-Data-Pipeline/assets/56173595/9943137a-4663-43ba-8a3f-25de0acdc5c7)
@@ -38,7 +38,7 @@ Before you begin, ensure you have the following:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/tejasjbansal/Azure-Data-Pipeline.git
-   cd your-repo
+   cd Azure-Data-Pipeline
    ```
 
 2. **Azure Data Factory Setup**:
